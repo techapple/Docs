@@ -2,8 +2,7 @@
 
 Hidden SourceTree shortcuts for **Mac** found on the internet.
 
-### Navigation & Menus
-#### Action	Shortcut
+#### Navigation & Menus
 - File Status Screen `cmd + 1`
 - Log Screen	`cmd + 2`
 - Search Screen	`cmd + 3`
