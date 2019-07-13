@@ -38,7 +38,7 @@ Hidden SourceTree shortcuts found on the internet.
 - Open Working Copy	cmd + o
 #### Window (Normal Mac Shortcuts)
 - Action	Shortcut
-- Quit	cmd + q
+- Quit	cmd + q 
 - Close window	cmd + w
 - Hide	cmd + h
 - Minimise	cmd + m
