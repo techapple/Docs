@@ -1,6 +1,6 @@
 # SourceTree Keyboard Shortcuts
 
-Hidden SourceTree shortcuts found on the internet.
+Hidden SourceTree shortcuts for **Mac** found on the internet.
 
 ### Navigation & Menus
 #### Action	Shortcut
