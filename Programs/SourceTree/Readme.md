@@ -1,4 +1,4 @@
-# SourceTree Keyboard Shortcuts
+# SourceTree Keyboard Shortcuts for Mac
 
 Hidden SourceTree shortcuts for **Mac** found on the internet.
 
