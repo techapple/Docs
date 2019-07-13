@@ -1,10 +1,6 @@
 # SourceTree Keyboard Shortcuts
 
-After wasting hours in search of a good list of keyboard shortcuts available in Atlassian’s SourceTree and feeling utter despair at how slow Atlassian is being at delivering this information, I thought I’d share the ones that I discovered through brute force and determination.
-
-These were discovered and are only applicable on a Mac (although I am sure the Windows equivalents are easy to deduce), at the Commit All.. Screen (cmd + shift + c).
-
-I would be extremely interested in hearing about any that are not already listed. Please post in the comments below.
+Hidden SourceTree shortcuts found on the internet.
 
 ### Navigation & Menus
 #### Action	Shortcut
@@ -46,3 +42,7 @@ I would be extremely interested in hearing about any that are not already listed
 - Close window	cmd + w
 - Hide	cmd + h
 - Minimise	cmd + m
+
+---
+
+Refered by <http://greena13.github.io/blog/2015/02/01/sourcetree-keyboard-shortcuts/>
