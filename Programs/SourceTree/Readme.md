@@ -26,7 +26,7 @@ Hidden SourceTree shortcuts found on the internet.
 - Find	cmd + f
 #### Branch Operations
 - Action	Shortcut
-- Stash	cmd + shift + s
+- Stash	cmd + shift + s 
 - Add Tag	cmd + shift + t
 - Branch	cmd + shift + b
 - Merge	cmd + shift + m
